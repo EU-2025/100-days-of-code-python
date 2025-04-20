@@ -1,2 +1,5 @@
 # Ignorar todos los archivos PDF
 *.pdf 
+# Ignorar los siguientes archivos de python
+__pycache__/
+*.pyc

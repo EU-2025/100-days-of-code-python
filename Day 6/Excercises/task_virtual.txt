@@ -1,0 +1,7 @@
+All the excercises were made with a web page:
+https://reeborg.cs20.ca/?lang=en&mode=python&menu=%2Fworlds%2Fmenus%2Fsk_menu.json&name=Alone&url=%2Fworlds%2Ftutorial_en%2Falone.json
+https://reeborg.cs20.ca/?lang=en&mode=python&menu=%2Fworlds%2Fmenus%2Fsk_menu.json&name=Hurdle%201&url=%2Fworlds%2Ftutorial_en%2Fhurdle1.json
+https://reeborg.cs20.ca/?lang=en&mode=python&menu=%2Fworlds%2Fmenus%2Fsk_menu.json&name=Hurdle%202&url=%2Fworlds%2Ftutorial_en%2Fhurdle2.json
+https://reeborg.cs20.ca/?lang=en&mode=python&menu=%2Fworlds%2Fmenus%2Fsk_menu.json&name=Hurdle%203&url=%2Fworlds%2Ftutorial_en%2Fhurdle3.json
+https://reeborg.cs20.ca/?lang=en&mode=python&menu=%2Fworlds%2Fmenus%2Fsk_menu.json&name=Hurdle%204&url=%2Fworlds%2Ftutorial_en%2Fhurdle4.json
+https://reeborg.cs20.ca/?lang=en&mode=python&menu=%2Fworlds%2Fmenus%2Fsk_menu.json&name=Maze&url=%2Fworlds%2Ftutorial_en%2Fmaze1.json

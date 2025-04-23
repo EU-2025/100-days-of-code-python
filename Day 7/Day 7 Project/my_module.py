@@ -16,8 +16,8 @@ alphabet = [
     'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'
 ]
 
-def print_word(word):
-    blank = ""
-    for letter in word:
-        blank += letter
-    return blank
+def return_as_string(list_letters):
+    word = ""
+    for letter in list_letters:
+        word += letter
+    return word

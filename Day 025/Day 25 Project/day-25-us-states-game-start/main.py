@@ -11,7 +11,7 @@ data_states = pandas.read_csv("50_states.csv")
 states_list = data_states["state"].to_list()
 
 states_guessed = []
-states_to_learn = []
+
 t = turtle.Turtle()
 t.hideturtle()
 t.speed("fastest")
@@ -29,9 +29,7 @@ while(game_is_on):
             continue
     
     if answer_state == "Exit":
-        for st in states_list:
-            if st not in states_guessed:
-                states_to_learn.append(st)
+        states_to_learn = [st for st in states_list if st not in states_guessed]
         states_left = {
             "state" : states_to_learn
         }
